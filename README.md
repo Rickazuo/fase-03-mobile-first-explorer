@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio Biscoito da Sorte </h1>
+<h1 align="center"> Página Responsiva (Mobile First) </h1>
 
 <p align="center">
 Uma página responsiva do curso Explorer - RocketSeat<br/>
@@ -7,13 +7,13 @@ Uma página responsiva do curso Explorer - RocketSeat<br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-collaborators">Colaboradores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-collaborators">Colaborador</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center" id="-layout">
-  <img alt="lucky biscuit gif" src="./src/assets/overview.png" width="100%">
+  <img alt="page image" src="./src/assets/overview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
